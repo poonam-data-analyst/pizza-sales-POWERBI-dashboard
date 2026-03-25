@@ -3,74 +3,44 @@
   <img src="https://github.com/poonam-data-analyst/pizza-sales-POWERBI-dashboard/blob/main/sales%20analysis.png" width="45%" />
 </p># pizza-sales-POWERBI-dashboard
 
-# Project Overview
+## 🚀 Pizza Sales Analysis Dashboard
 
-This project presents an interactive Power BI dashboard designed to analyze pizza sales performance. The dashboard provides insights into revenue trends, order patterns, and product category performance to support data-driven business decisions.
+An interactive **Power BI dashboard** designed to analyze pizza sales data and uncover meaningful business insights.
+This project demonstrates strong skills in **data analysis, visualization, and business intelligence**.
 
-# Tools & Technologies
+## 📊 Project Highlights
 
-1)Power BI
+✨ Built dynamic and interactive dashboards using Power BI
+✨ Analyzed sales trends, revenue, and customer behavior
+✨ Identified top-performing pizza categories and sizes
+✨ Visualized peak order times and sales patterns
+✨ Created clean, user-friendly, and professional layouts
 
-2)DAX
+## 📈 Key Insights
 
-3)Data Visualization
+✔ Classic category contributes the highest revenue
+✔ Large size pizzas dominate total sales
+✔ Peak sales occur during afternoon hours
+✔ Weekly trends show higher demand on weekends
+✔ Sales performance varies across quarters
 
-4)Dataset Description
+## 🛠️ Tools & Technologies
 
-# The dataset contains pizza sales transaction data including:
+* 📊 Power BI
+* 📁 Excel / CSV Dataset
+* 🔄 Data Cleaning & Transformation
+* 📉 Data Visualization
 
-1)Order ID
+## 💼 Business Value
 
-2)Order Date and Time
+This dashboard helps businesses to:
 
-3)Pizza Category
+* Improve sales strategies
+* Understand customer preferences
+* Optimize inventory and operations
+* Make data-driven decisions
 
-4)Pizza Size
+## 📌 About the Project
 
-5)Quantity Ordered
+This project is part of my **Data Analyst portfolio**, showcasing my ability to transform raw data into actionable insights using modern BI tools.
 
-6)Price per Pizza
-
-7)Total Revenue
-
-#  Key Analysis Performed
-
-1)Analysis of total revenue and total orders
-
-2)Identification of best-selling pizza categories
-
-3)Analysis of peak sales hours and order trends
-
-4)Daily and monthly sales performance analysis
-
-5)Identification of top-performing pizza products
-
-# Dashboard Features
-
-1)KPI cards showing key business metrics
-
-2)Interactive filters and slicers
-
-3)Revenue trend analysis
-
-4)Category-wise sales performance visualization
-
-# Skills Demonstrated
-
-1)Data Visualization
-
-2)Dashboard Development
-
-3)Business Data Analysis
-
-4)DAX Calculations
-
-
-<p align="center">
-  <img src="" width="80%" />
-</p>
-
-<p align="center">
-  <img src="PASTE_LINK_2_HERE" width="45%" />
-  <img src="PASTE_LINK_3_HERE" width="45%" />
-</p>
