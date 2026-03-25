@@ -1,4 +1,7 @@
-# pizza-sales-POWERBI-dashboard
+<p align="center">
+  <img src="https://github.com/poonam-data-analyst/pizza-sales-POWERBI-dashboard/blob/main/dashboard_overview.png" width="45%" />
+  <img src="https://github.com/poonam-data-analyst/pizza-sales-POWERBI-dashboard/blob/main/sales%20analysis.png" width="45%" />
+</p># pizza-sales-POWERBI-dashboard
 
 # Project Overview
 
@@ -61,3 +64,13 @@ This project presents an interactive Power BI dashboard designed to analyze pizz
 3)Business Data Analysis
 
 4)DAX Calculations
+
+
+<p align="center">
+  <img src="" width="80%" />
+</p>
+
+<p align="center">
+  <img src="PASTE_LINK_2_HERE" width="45%" />
+  <img src="PASTE_LINK_3_HERE" width="45%" />
+</p>
